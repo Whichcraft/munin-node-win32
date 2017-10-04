@@ -3,6 +3,8 @@ munin-node-win32
 
 ## original source: https://github.com/munin-monitoring/munin-node-win32
 
+depends on: https://www.microsoft.com/en-us/download/details.aspx?id=48145
+
 ### virustotal checked:
 
 https://www.virustotal.com/#/file/d85bbcf37207d6896ef42f8643effe2010d9cfa7d486bc15c8bc1e6ad59d8051 munin-node.exe
